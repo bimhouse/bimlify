@@ -7,12 +7,12 @@
  --c-brand-light: #92278f;
 
  // background colors
- --c-bg: #000000;
- --c-bg-light: #f3f4f5;
- --c-bg-lighter: #eeeeee;
+ --c-bg: #ffffff;
+ --c-bg-light: #ffffff;
+ --c-bg-lighter: #ffffff;
  --c-bg-navbar: var(--c-bg);
  --c-bg-sidebar: var(--c-bg);
- --c-bg-arrow: #cccccc;
+ --c-bg-arrow: #c7c8ca;
 
  // text colors
  --c-text: #000000;
@@ -138,23 +138,24 @@
 // dark theme default overrides
 html.dark {
   // brand colors
-  --c-brand: #3aa675;
+  --c-brand: #92278f;
   --c-brand-light: #349469;
 
   // background colors
-  --c-bg: #22272e;
+  --c-bg: #000000;
   --c-bg-light: #2b313a;
   --c-bg-lighter: #262c34;
 
   // text colors
-  --c-text: #adbac7;
-  --c-text-light: #96a7b7;
-  --c-text-lighter: #8b9eb0;
-  --c-text-lightest: #8094a8;
+  --c-text: #ffffff;
+  --c-text-light: #c7c8ca;
+  --c-text-lighter: #939598;
+  --c-text-lightest: #636466;
+  --c-text-quote: #ffffff;
 
   // border colors
-  --c-border: #3e4c5a;
-  --c-border-dark: #34404c;
+  --c-border: #ffffff;
+  --c-border-dark: #ffffff;
 
   // custom container colors
   --c-tip: #318a62;
