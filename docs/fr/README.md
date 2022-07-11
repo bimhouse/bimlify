@@ -1,0 +1,3 @@
+# Bimlify
+
+This is the landing page in french...
